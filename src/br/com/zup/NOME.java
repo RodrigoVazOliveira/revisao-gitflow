@@ -1,7 +1,12 @@
 package br.com.zup;
 
 public enum NOME {
-    RODRIGO,
+
+    RICARDO,
     IRIS,
+    FRANKLIN,
+    RODRIGO,
     KAIO,
+    THIAGO
+
 }
