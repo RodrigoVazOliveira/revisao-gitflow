@@ -7,5 +7,11 @@ public enum NOME {
     FRANKLIN,
     RODRIGO,
     THIAGO,
-    ANA_LUIZA;
+    ANA_LUIZA,
+    KAIO,
+    WESLLEY,
+    NATALIA,
+    HARRY,
+    WINDOWS;
+
 }
