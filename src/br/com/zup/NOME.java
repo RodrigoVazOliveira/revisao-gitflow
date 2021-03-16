@@ -11,5 +11,6 @@ public enum NOME {
     THIAGO,
     WESLLEY,
     NATALIA,
+    HARRY,
     WINDOWS;
 }
