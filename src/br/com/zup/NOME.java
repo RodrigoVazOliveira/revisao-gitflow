@@ -1,7 +1,8 @@
 package br.com.zup;
 
-public enum NOME {
+import javax.naming.spi.Resolver;
 
+public enum NOME {
     RICARDO,
     IRIS,
     FRANKLIN,
@@ -9,7 +10,7 @@ public enum NOME {
     KAIO,
     THIAGO,
     WESLLEY,
-    NATALIA;
-
-
+    NATALIA,
+    HARRY,
+    WINDOWS;
 }
