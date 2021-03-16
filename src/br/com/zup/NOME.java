@@ -8,5 +8,4 @@ public enum NOME {
     THIAGO,
     ANA_LUIZA;
 
-
 }
