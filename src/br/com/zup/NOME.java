@@ -7,6 +7,6 @@ public enum NOME {
     FRANKLIN,
     RODRIGO,
     KAIO,
-    THIAGO
+    THIAGO,
 
 }
