@@ -13,6 +13,5 @@ public enum NOME {
     NATALIA,
     HARRY,
     WINDOWS;
-
 }
 
