@@ -8,6 +8,8 @@ public enum NOME {
     RODRIGO,
     KAIO,
     THIAGO,
-    WESLLEY;
+    WESLLEY,
+    NATALIA;
+
 
 }
