@@ -2,5 +2,5 @@ package br.com.zup;
 
 public enum NOME {
 
-    RODRIGO, RICARDO, IRIS;
+    RODRIGO, RICARDO, IRIS, FRANKLIN;
 }
